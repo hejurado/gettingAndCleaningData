@@ -38,7 +38,8 @@ Contains initial steps in which we perform the following actions
   I update activity names with the names of **achivo activity_labels**
 
 ## Appropriately labels the data set with descriptive
-
+  
+  It seeks to obtain complete and easy-to-understand strings in field names
 
 ## I create a file tidy with  the average of each variable for each activity and each subject.    
 
