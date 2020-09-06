@@ -1,6 +1,6 @@
 # Codebook
 
-This code book will describe the data used in this project, as well as the processing required to create the resulting tidy data set.
+This code book will describe the variable used in this project in run_analysis.R,the resulting tidy data set generated is the file **MeanDataBySubjectActivity.txt**
 
 ## variables used
 
